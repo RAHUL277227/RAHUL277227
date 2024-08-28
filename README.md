@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Majumdar</h1>
 <h3 align="center">A passionate App developer</h3>
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlqb281YWVyYWRrNzBlMXMycDh2bG9tNno0cXZzZnduOHR3am9hNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul277227&label=Profile%20views&color=0e75b6&style=flat" alt="rahul277227" /> </p>
 
